@@ -3,3 +3,46 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+
+img {
+
+  margin: auto;
+  display: block;
+}
+
+nav{
+text-align: center;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+nav a{
+  background-color: teal;
+}
+
+figcaption{
+  text-align:center;
+  font-size: 18px;
+  
+}
+
+#featured-property > p {
+width:800px;
+line-height:  25px;
+text-align:center;
+margin:auto;
+
+}
+
+div {
+
+text-align: center;
+float:left;
+width:25%;
+background-color: violet;
+}
